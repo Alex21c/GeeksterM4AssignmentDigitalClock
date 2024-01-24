@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+Command for Tailwind build || live cache refresh
+npx tailwindcss -i index.css -o tailwind.css --watch 
+*/
+:root {
+  --color-white: #FFFFFF;
+}
+
+*, ::before, ::after {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.displayNone {
+  display: none;
+}
+
+html {
+  font-size: 16px;
+  
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+}
+
+h1{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+/* MEDIA QUERIES */
+
