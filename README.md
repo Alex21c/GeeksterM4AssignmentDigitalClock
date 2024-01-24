@@ -11,7 +11,7 @@
 + [JavaScript ES6](https://en.wikipedia.org/wiki/JavaScript)
 + [Font Awesome](https://fontawesome.com/icons)
 + [Google Fonts](https://fonts.google.com/)
-+ [Diagrams.net](https://www.drawio.com/)
+<!-- + [Diagrams.net](https://www.drawio.com/) -->
 + [Git](https://en.wikipedia.org/wiki/Git)
 + [GitHub](https://github.com/)
 + [VS Code](https://code.visualstudio.com/)
